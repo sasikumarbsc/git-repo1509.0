@@ -1,0 +1,13 @@
+class Main {
+
+  public static void main(String[] args) {
+    
+    int first = 10;
+    int second = 20;
+    int thrird = 30;
+
+    // add three  numbers
+    int sum = first + second + third;
+    System.out.println(first + " + " + second + " + " + third + "  = "  + sum);
+  }
+}
